@@ -46,3 +46,18 @@ ul {
     margin-right: auto;
     width: 50%;
   }
+  article {
+    margin: 5px 0px;
+    padding: 5px 5px;    
+    box-shadow: -1px -1px 6px #888888;
+    color: #14213d;
+    }
+    main>h3 {
+        text-align: left;
+    }
+    article>p {
+font-style: italic;
+    }
+.hours {
+    text-align: center;
+}
